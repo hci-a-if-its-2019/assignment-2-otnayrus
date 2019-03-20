@@ -8,21 +8,40 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
+I hope my writings readable and my sketches are understandable
 ```
 
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+## Problems
+- Unreachable sort feature.
+- No filter / show by feature.
+- No search schedule by name feature.
+
+## Possible Solutions
+
+# Solution 1
+- Create a floating toolbox that consists of 3 blocks : sort, filter, and search.
+- When a user touched one of the block, then a representative preferences menu will appear.
+
+# Solution 2
+- Using the button / icon in the top-right as the main access to those features.
+- Add the menu for sort, filter, and search.
+- When a user touched one of the list, then a representative preferences menu will appear.
+
+# Solution 3
+- Using the hidden sidebar menu by swipe / flick the screen from left side. (Must create hints or interaction animations for the visibility of the sidebar)
+- Sidebar will appear with sliding animation.
+- Put the menu for sort, filter, and search in the sidebar.
+- When a user touched one of the list, then a representative preferences menu will appear.
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+I choose the solution 1 for the design. There is actually a sort feature in the icon provided as in solution 2, but previously on contextual inquiry, the user didn't know whether the sort feature lies in the top right icon. So it would be good if the user knows the feature floating on the homepage.
+There are side effect by this solution. Some user maybe find this 3 blocks annoying when it's appearing on the main page. This side effect can be solved by reducing the time of the toolbox appearing. Such as hiding the toolbox when the user starts scrolling. 
+Note that this toolbox will only appear when user is idle.
 ```
 
 ### 4. Design Rationale
@@ -33,17 +52,17 @@ The design chosen based on the contextual inquiry on non-tech savvy users, and a
 ## Part B: Assumptions
 ### 1. Hardware
 ```
--Hardware Required : Smartphone
--OS : Android based (any Version)
--Storage : 128 MB (min)
--Screen Resolution : Any
+- Hardware Required : Smartphone
+- OS : Android based (any Version)
+- Storage : 128 MB (min)
+- Screen Resolution : Any
 ```
 ### 2. Users
 ```
--User age range 3-80 years old
--Know the basics of using smartphones.
--User must have google account, and know to use it.
--User must not have any experience from the app.
+- User age range 3-80 years old
+- Know the basics of using smartphones.
+- User must have google account, and know to use it.
+- User must not have any experience from the app.
 ```
 
 ## Part C: Prototypes
