@@ -27,27 +27,24 @@ and why you selected it.
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+The design chosen based on the contextual inquiry on non-tech savvy users, and also from consideration of the feedbacks given by the user.
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+-Hardware Required : Smartphone
+-OS : Android based (any Version)
+-Storage : 128 MB (min)
+-Screen Resolution : Any
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+-User age range 3-80 years old
+-Know the basics of using smartphones.
+-User must have google account, and know to use it.
+-User must not have any experience from the app.
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+We will work on this part together during the class on **March 21st, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
