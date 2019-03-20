@@ -8,61 +8,70 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ```
-I hope my writings readable and my sketches are understandable
+I hope my writings and sketches are understandable
 ```
+#### Solution 1
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+<p align="center">
+  <img src="img/img1.jpg"><br><br>
+</p>
+
+#### Solution 2
+<p align="center">
+  <img src="img/img2.jpg"><br><br>
+</p>
+
+##### Solution 3
+<p align="center">
+  <img src="img/img3.jpg"><br><br>
+</p>
 
 ### 2. Version Differences
 
-## Problems
+#### Problems
 - Unreachable sort feature.
-- No filter / show by feature.
+- No filter / 'show by' feature.
 - No search schedule by name feature.
 
-## Possible Solutions
+#### Possible Solutions
 
-# Solution 1
+##### Solution 1
 - Create a floating toolbox that consists of 3 blocks : sort, filter, and search.
 - When a user touched one of the block, then a representative preferences menu will appear.
 
-# Solution 2
+##### Solution 2
 - Using the button / icon in the top-right as the main access to those features.
 - Add the menu for sort, filter, and search.
 - When a user touched one of the list, then a representative preferences menu will appear.
 
-# Solution 3
+##### Solution 3
 - Using the hidden sidebar menu by swipe / flick the screen from left side. (Must create hints or interaction animations for the visibility of the sidebar)
 - Sidebar will appear with sliding animation.
 - Put the menu for sort, filter, and search in the sidebar.
 - When a user touched one of the list, then a representative preferences menu will appear.
 
 ### 3. Selected Sketch
-```
-I choose the solution 1 for the design. There is actually a sort feature in the icon provided as in solution 2, but previously on contextual inquiry, the user didn't know whether the sort feature lies in the top right icon. So it would be good if the user knows the feature floating on the homepage.
-There are side effect by this solution. Some user maybe find this 3 blocks annoying when it's appearing on the main page. This side effect can be solved by reducing the time of the toolbox appearing. Such as hiding the toolbox when the user starts scrolling. 
-Note that this toolbox will only appear when user is idle.
-```
+I choose the solution 1 for the design. There is actually a sort feature in the icon provided as in solution 2, but previously on contextual inquiry, the user didn't know whether the sort feature lies in the top right icon. So it would be good if the user knows the feature is floating on the homepage.
+But there are possible side effect by this solution. Some user may find this 3 blocks annoying when it's always appearing on the main page. This side effect can be solved by reducing the appearance time of the floating toolbox, such as hiding the toolbox when the user starts scrolling. 
+Note that this toolbox will only appear when user is idle on home page (not appearing when the user is accessing another feature than home page).
 
 ### 4. Design Rationale
-```
 The design chosen based on the contextual inquiry on non-tech savvy users, and also from consideration of the feedbacks given by the user.
-```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
 - Hardware Required : Smartphone
 - OS : Android based (any Version)
-- Storage : 128 MB (min)
+- Storage : 128 MB (minimum)
 - Screen Resolution : Any
 ```
 ### 2. Users
 ```
-- User age range 3-80 years old
+- User age range 3+ years old
 - Know the basics of using smartphones.
 - User must have google account, and know to use it.
-- User must not have any experience from the app.
+- User must not always have any experience from the app.
 ```
 
 ## Part C: Prototypes
