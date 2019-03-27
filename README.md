@@ -76,3 +76,6 @@ The design chosen based on the contextual inquiry on non-tech savvy users, and a
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 21st, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+<p align="center">
+	<img src="img/pro1.png"><br><br>
+</p>
