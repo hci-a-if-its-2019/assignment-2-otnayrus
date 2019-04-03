@@ -92,6 +92,8 @@ Link to inVision : https://freehand.invisionapp.com/freehand/document/SnG9E6Mcy
 	<img src="img/pro3.png"><br><br>
 </p>
 
+Link to inVision preview (with hotspots) : https://invis.io/5SR8BI0XAHV#/354662965_Hf1
+
 ### High Fidelity Prototypes
 
-Link to inVision preview : https://invis.io/5SR8BI0XAHV#/354662965_Hf1
+Link to inVision preview : https://invis.io/5SR8BI0XAHV#/356006873_Highf1
